@@ -1,3 +1,6 @@
+# This is a python program
+# Start of the program
+
 class Solution:
    def solve(self, friends):
       nodes = len(friends)
@@ -15,3 +18,5 @@ class Solution:
 ob = Solution()
 friends = [ [0, 1, 5], [1, 0], [2], [3, 4], [4, 3], [5, 0] ]
 print(ob.solve(friends))
+
+# End of the program
